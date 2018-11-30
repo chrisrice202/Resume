@@ -1,2 +1,2 @@
-# Resume
-This is the repository with my most current resume.
+# Resume Info
+This repo contains my most current resume. Please check my LinkedIn for contact information. 
